@@ -1,3 +1,17 @@
-# Animation (JavaScript)
-Animação para landing page.<br>
-Link de acesso: https://dev-marcioreis.github.io/animation/
+### Animation
+
+---
+
+Animações para landing page.
+
+## 🚀 Começando...
+
+## 📋 Técnologias
+HTML + CSS + JavaScript
+
+## ✒️ Autor
+Márcio Reis
+
+😊 Link de acesso: https://dev-marcioreis.github.io/animation/
+
+---
